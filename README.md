@@ -1,6 +1,6 @@
 ### Hi there, I'm CJY 👋
 
-- Currently learning Computer Science in Uni :computer:
+- Currently learning IT in Uni :computer:
 - Interests: Cyber Security, AI, Data Science and more
 - Programming languages: Python, C
 - Skills: Computer Networking, Linux
